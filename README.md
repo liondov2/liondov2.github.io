@@ -4,7 +4,6 @@
 ![ts](https://badgen.net/badge/Built%20With/TypeScript/blue) ![vercel](https://img.shields.io/github/deployments/satnaing/my-portfolio/production?label=vercel&logo=vercel&logoColor=white)
 
 
-[![显示在里面](https://pic.imgdb.cn/item/65685946c458853aef0dcbe3.png)](https://pic.imgdb.cn/item/65685946c458853aef0dcbe3.png)
 
 My portfolio & blog website developed with Next.JS(SSG) and TypeScript. Tailwind CSS and GSAP is used for styling and animations. Blog contents are written in Markdown format. Light & Dark themes supported.
 
